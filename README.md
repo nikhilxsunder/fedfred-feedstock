@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fedfred-feedsto
 
 Home: https://github.com/nikhilxsunder/fedfred
 
-Package license: AGPL-3.0-or-later
+Package license: MIT
 
 Summary: A feature-rich python package for interacting with the Federal Reserve Bank of St. Louis Economic Database (FRED)
 
